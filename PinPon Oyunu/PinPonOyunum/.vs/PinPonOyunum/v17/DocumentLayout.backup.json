@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samet\\Desktop\\ConsoleAppDersleri\\CanBoz_udemy_csharp\\PinPon Oyunu\\PinPonOyunum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B678CB-65C2-4132-BCB3-4C94ACFD964E}|PinPonOyunum\\PinPonOyunum.csproj|c:\\users\\samet\\desktop\\consoleappdersleri\\canboz_udemy_csharp\\pinpon oyunu\\pinponoyunum\\pinponoyunum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2B678CB-65C2-4132-BCB3-4C94ACFD964E}|PinPonOyunum\\PinPonOyunum.csproj|solutionrelative:pinponoyunum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\samet\\Desktop\\ConsoleAppDersleri\\CanBoz_udemy_csharp\\PinPon Oyunu\\PinPonOyunum\\PinPonOyunum\\Form1.cs",
+              "RelativeDocumentMoniker": "PinPonOyunum\\Form1.cs",
+              "ToolTip": "C:\\Users\\samet\\Desktop\\ConsoleAppDersleri\\CanBoz_udemy_csharp\\PinPon Oyunu\\PinPonOyunum\\PinPonOyunum\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "PinPonOyunum\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:03:32.368Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
